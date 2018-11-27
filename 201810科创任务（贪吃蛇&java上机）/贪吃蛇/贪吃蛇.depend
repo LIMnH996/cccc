@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538996191 source:c:\users\asus\desktop\Ã∞≥‘…ﬂ\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
